@@ -1,0 +1,14 @@
+* Compilation
+
+#+BEGIN_SRC 
+make
+#+END_SRC
+
+* Installation
+
+#+BEGIN_SRC sh
+apt install libssl-dev
+cp bin/stunnel /usr/local/bin
+#+END_SRC
+
+
